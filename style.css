@@ -1,0 +1,53 @@
+body {
+	background-color: white;
+	color: black;
+}
+.crt {
+	text-align: center;
+	background-color: black;
+	padding: 5px;
+	color: white;
+}
+.logo {
+	position: absolute;
+	top: 20px;
+	left: 30px;
+}
+.link {
+	text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: #053299;
+}
+table, th, td {
+    border: 1px solid black;
+    font-size: 25px;
+}
+table {
+	border-spacing: 15px;
+	width: 100%;
+}
+th, td {
+  width: 
+}
+.hym {
+	position: absolute;
+	top: 250px;
+	left: 270px;
+}
+p {
+
+}
+.img {
+	position: absolute;
+	top: 270px;
+	left: 700px;
+}
+.name {
+	background-color: black;
+	position: relative;
+	top: 390px;
+	color: white;
+	text-align: center;
+	padding: 2px;
+}
